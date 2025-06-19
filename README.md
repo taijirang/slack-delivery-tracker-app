@@ -1,3 +1,8 @@
+Windows 환경에서 제대로 동작하도록 TOKEN을 python 실행 시 argument로 받도록 처리함
+```
+python app.py --bot-token "xoxb-12345" --app-token "xapp-12345"
+```
+
 # Delivery Tracker App Template
 
 This project uses the Bolt for Python template to build out a delivery tracker app.  Since this app is used for educational purposes, you can find the progression of the app itself through git branches. There are total of 5 branches, step-1 through step-4, step-4 showing the final finished app.
